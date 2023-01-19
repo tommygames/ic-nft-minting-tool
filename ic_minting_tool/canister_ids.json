@@ -1,0 +1,11 @@
+{
+    "ic_minting_tool_backend": {
+        "ic": "ant52-dqaaa-aaaal-abu7a-cai"
+    },
+    "ic_minting_tool_frontend": {
+        "ic": "umme3-pqaaa-aaaap-aaosq-cai"
+    },
+    "deployer": {
+        "ic": "7xo7b-caaaa-aaaal-abjtq-cai"
+    }
+}
